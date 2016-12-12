@@ -1,13 +1,14 @@
 # keccak 
-keccak is a SHA3-256 (Secure Hash Algorithm 3) cryptographic hash function designed by Guido Bertoni, Joan Daemen, Michaël Peeters, and Gilles Van Assche.
+keccak is a SHA3-512 (Secure Hash Algorithm 3) cryptographic hash function designed by Guido Bertoni, Joan Daemen, Michaël Peeters, and Gilles Van Assche.
 
 example:
 
-<code>SHA3-256("") : 
-a7ffc6f8bf1ed76651c14756a061d662f580ff4de43b49fa82d80a4b80f8434a</code>
+<code>SHA3-512("") : 
+a69f73cca23a9ac5c8b567dc185a756e97c982164fe25859e0d1dcc1475c80a615b2123af1f5f94c11e3e9402c3ac558f500199d95b6d3e301758586281dcd26</code>
+0eab42de4c3ceb9235fc91acffe746b29c29a8c366b7c60e4e67c466f36a4304c00fa9caf9d87976ba469bcbe06713b435f091ef2769fb160cdab33d3670680e
 
 details:
 
-[wiki](https://en.wikipedia.org/wiki/SHA-3)
+[wikipedia](https://en.wikipedia.org/wiki/SHA-3)
 
 [home page](http://keccak.noekeon.org)

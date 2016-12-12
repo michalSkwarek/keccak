@@ -4,5 +4,4 @@ keccak is a SHA3-256 (Secure Hash Algorithm 3) cryptographic hash function desig
 example:
 
 <code>SHA3-256("")</code>
-
 <code>a7ffc6f8bf1ed76651c14756a061d662f580ff4de43b49fa82d80a4b80f8434a</code>

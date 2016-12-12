@@ -6,4 +6,5 @@ example:
 a7ffc6f8bf1ed76651c14756a061d662f580ff4de43b49fa82d80a4b80f8434a</code>
 
 details:
-[link text itself]: http://www.reddit.comsada
+[wiki](https://en.wikipedia.org/wiki/SHA-3)
+[home page](http://keccak.noekeon.org)
